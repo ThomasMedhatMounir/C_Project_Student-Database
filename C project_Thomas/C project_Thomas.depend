@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1659630636 source:d:\career\1 asu & uel\course\embedded amit\assignments\c project_thomas\c project_thomas\main.c
+	"Functions.h"
+
+1659631852 d:\career\1 asu & uel\course\embedded amit\assignments\c project_thomas\c project_thomas\functions.h
+	<stdio.h>
+	<stdbool.h>
+	"STD_TYPES.h"
+
+1656747763 d:\career\1 asu & uel\course\embedded amit\assignments\c project_thomas\c project_thomas\std_types.h
+
+1659630767 source:d:\career\1 asu & uel\course\embedded amit\assignments\c project_thomas\c project_thomas\functions.c
+	"Functions.h"
+
